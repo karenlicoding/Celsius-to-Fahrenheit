@@ -3,3 +3,6 @@
 
 # BMIcount
 計算BMI值
+
+#dirving check
+確認是否能開車
